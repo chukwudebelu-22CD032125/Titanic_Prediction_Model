@@ -1,0 +1,6 @@
+Name: Chukwudebelu Chiziterem
+Matric Number: 22CD032125
+Machine Learning Algorithm Used: Random Forest Classifier
+Model Persistence Method Used: Joblib
+Live URL of Hosted Application: 
+GitHub Repository Link: https://github.com/chukwudebelu-22CD032125/Titanic_Prediction_Model
